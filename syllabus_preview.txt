@@ -1,0 +1,2068 @@
+﻿=== BRANCH: AIDS ===
+  PDF: AIDS SY, TY, Final Year 2025-26.pdf
+Vishwakarma Institute of Technology, Pune                   Issue 01:Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+ 
+ 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+ 
+ 
+Vishwakarma Institute of Technology 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+ 
+ 
+ 
+ 
+Structure & Syllabus of 
+B.Tech.  (AI & DS) 
+Effective from Academic Year 2025-26 
+Prepared by: Board of Studies in AI & DS 
+ 
+Approved by: Academic Board, Vishwakarma Institute of Technology, Pune 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chairman BOS 
+Chairman Academic Board 
+ 
+ 
+ 
+Vishwakarma Institute of Technology, Pune                   Issue 01:Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Institute Vision 
+"To be globally acclaimed Institute in Technical Education and Research for holistic Socio- economic 
+development". 
+ 
+ 
+Institute Mission 
+ 
+  To ensure that 100% students are employable and employed in Industry, Higher Studies, become 
+Entrepreneurs, Civil / Defense Services / Govt. Jobs and other areas like Sports and Theatre. 
+  To strengthen Academic Practices in terms of Curriculum, Pedagogy, Assessment and Faculty Competence. 
+  Promote Research Culture among Students and Faculty through Projects and Consultancy. 
+  To make students Socially Responsible Citizen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vishwakarma Institute of Technology, Pune                   Issue 01:Rev No. 00 : Dt. 01/08/22 
+ 
+Department Vision 
+ 
+ 
+ To offer quality academic environment with the modern infrastructure to cater the demand of
+---
+=== BRANCH: CSE ===
+  PDF: 2.-Syllabus_SY-CS_AY25_26_Ver-3_Modified.pdf
+Vishwakarma Institute of Technology    
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Structure and syllabus of  B.Tech Computer Engineering. w.e.f A.Y. 2025-26 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+Vishwakarma Institute of Technology 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+Structure & Syllabus  
+B.Tech. (Computer Engineering) 
+With Effect from Academic Year 2025-26 
+Prepared by: - Board of Studies in Computer Engineering 
+Approved by: - Academic Board, Vishwakarma Institute of Technology, Pune 
+ 
+  
+ 
+ 
+Chairman   BOS   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chairman   Academic Board 
+Vishwakarma Institute of Technology    
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Structure and syllabus of  B.Tech Computer Engineering. w.e.f A.Y. 2025-26 
+Vision of the Institution 
+ 
+"To be globally acclaimed Institute in Technical Education and Research for holistic Socio-economic development". 
+ 
+Mission of the Institution 
+  
+To ensure that 100% students are employable and employed in Industry, Higher Studies, become Entrepreneurs,  
+            Civil / Defense Services / Govt. Jobs and other areas like Sports and Theatre. 
+  
+To strengthen Academic Practices in terms of Curriculum, Pedagogy, Assessment and Faculty Competence. 
+  
+Promote Research Culture among Students and Faculty through Projects and Consultancy. 
+  
+To make students Socially Responsible Citizen. 
+ 
+ 
+ 
+ 
+Vishwakarma Institute of Technology    
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Structure and sy
+---
+  PDF: 3.-Syllabus-TY-Final-Year-BTech-2025-26_Ver-3_Modified.pdf
+Vishwakarma Institute of Technology    
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Structure and syllabus of  B.Tech Computer Engineering. w.e.f A.Y. 2025-26 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+Vishwakarma Institute of Technology 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+Structure & Syllabus  
+B.Tech. (Computer Engineering) 
+With Effect from Academic Year 2024-25 
+Prepared by: - Board of Studies in Computer Engineering 
+Approved by: - Academic Board, Vishwakarma Institute of Technology, Pune 
+ 
+  
+ 
+ 
+Chairman   BOS   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chairman   Academic Board 
+Vishwakarma Institute of Technology    
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Structure and syllabus of  B.Tech Computer Engineering. w.e.f A.Y. 2025-26 
+Vision of the Institution 
+ 
+"To be globally acclaimed Institute in Technical Education and Research for holistic Socio-economic development". 
+ 
+Mission of the Institution 
+  
+To ensure that 100% students are employable and employed in Industry, Higher Studies, become Entrepreneurs,  
+            Civil / Defense Services / Govt. Jobs and other areas like Sports and Theatre. 
+  
+To strengthen Academic Practices in terms of Curriculum, Pedagogy, Assessment and Faculty Competence. 
+  
+Promote Research Culture among Students and Faculty through Projects and Consultancy. 
+  
+To make students Socially Responsible Citizen. 
+ 
+ 
+ 
+ 
+Vishwakarma Institute of Technology    
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Structure and sy
+---
+  PDF: Double_Minor-Courses-CS_AY25_26_Ver1.0_1.pdf
+Vishwakarma Institute of Technology    
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Syllabus of Honors offered by B.O.S. in Computer Engineering for Academic Year 2025-26 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+Vishwakarma Institute of Technology 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+Structure & Syllabus  
+Double Minor Courses  
+Offered by 
+B.Tech. (Computer Engineering) 
+With Effect from Academic Year 2025-26 
+Prepared by: - Board of Studies in Computer Engineering 
+Approved by: - Academic Board, Vishwakarma Institute of Technology, Pune 
+  
+ 
+Chairman   BOS   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chairman   Academic Board 
+Vishwakarma Institute of Technology    
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Syllabus of Honors offered by B.O.S. in Computer Engineering for Academic Year 2025-26 
+Vision of the Institution 
+ 
+"To be globally acclaimed Institute in Technical Education and Research for holistic Socio-economic development". 
+ 
+Mission of the Institution 
+  
+To ensure that 100% students are employable and employed in Industry, Higher Studies, become Entrepreneurs,  
+            Civil / Defense Services / Govt. Jobs and other areas like Sports and Theatre. 
+  
+To strengthen Academic Practices in terms of Curriculum, Pedagogy, Assessment and Faculty Competence. 
+  
+Promote Research Culture among Students and Faculty through Projects and Consultancy. 
+  
+To make students Socially Responsible Citizen. 
+ 
+ 
+Vishwakarma Institute of Technology    
+Issue 0
+---
+  PDF: FY-A.Y.-2024-25_2-April-2025.pdf
+  Vishwakarma Institute of Technology                     Issue 01: Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Structure & Syllabus of DESH, Pattern, A-24, A.Y-2024-25 
+ Page 1 of 67 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+Vishwakarma Institute of Technology 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+NEP Compliant Structure & Syllabus 
+of 
+Department of Engineering, Sciences & Humanities (DESH) 
+Pattern  A-24  
+F. Y. B. Tech. 
+Effective from Academic Year 2024-25 
+Prepared by: - Board of Studies in Engineering, Sciences & Humanities 
+Approved by: - Academic Board, Vishwakarma Institute of Technology, Pune 
+Chairman- BoS 
+   Dean -  Academics 
+Chairman   Academic  Board 
+  Vishwakarma Institute of Technology                     Issue 01: Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Structure & Syllabus of DESH, Pattern, A-24, A.Y-2024-25 
+ Page 2 of 67 
+ 
+Contents 
+ 
+Sr. No.
+Title 
+Page No.
+1. 
+Program Outcomes 
+3 
+2. 
+Course Structure   
+4 
+3. 
+HS1071 
+Linear Algebra and Differential Equations 
+5 
+4. 
+CS1012 
+Problem Solving and Programming 
+7 
+5. 
+XX1016/XX1019/XX1020 
+Computer Organization and Architecture 
+9 
+6. 
+ET1019/IC1016 
+Electronic Circuits 
+11 
+7. 
+ME1019 
+Mechanical Systems Engineering 
+13 
+8. 
+CV1019 
+Engineering Mechanics 
+15 
+9. 
+  XX1015/XX1019//XX1020 
+Web Development 
+16 
+10.  
+ET1020/IC1015 
+Electronics Hardware Workshop 
+19 
+11.  
+ME1020 
+Mechanics of Machine Elements 
+21 
+12.  
+CV1020 
+Surveying 
+23 
+13.  
+HS1073 
+Ind
+---
+  PDF: Honor-Courses-CS_AY25_26_Ver1.pdf
+Vishwakarma Institute of Technology    
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Syllabus of Honors offered by B.O.S. in Computer Engineering for Academic Year 2025-26 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+Vishwakarma Institute of Technology 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+Structure & Syllabus  
+Honor Courses  
+Offered by 
+B.Tech. (Computer Engineering) 
+With Effect from Academic Year 2025-26 
+Prepared by: - Board of Studies in Computer Engineering 
+Approved by: - Academic Board, Vishwakarma Institute of Technology, Pune 
+  
+ 
+Chairman   BOS   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chairman   Academic Board 
+Vishwakarma Institute of Technology    
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Syllabus of Honors offered by B.O.S. in Computer Engineering for Academic Year 2025-26 
+Vision of the Institution 
+ 
+"To be globally acclaimed Institute in Technical Education and Research for holistic Socio-economic development". 
+ 
+Mission of the Institution 
+  
+To ensure that 100% students are employable and employed in Industry, Higher Studies, become Entrepreneurs,  
+            Civil / Defense Services / Govt. Jobs and other areas like Sports and Theatre. 
+  
+To strengthen Academic Practices in terms of Curriculum, Pedagogy, Assessment and Faculty Competence. 
+  
+Promote Research Culture among Students and Faculty through Projects and Consultancy. 
+  
+To make students Socially Responsible Citizen. 
+ 
+ 
+Vishwakarma Institute of Technology    
+Issue 01 : Rev
+---
+  PDF: MDM-BOOKLET.pdf
+ 
+ 
+ 
+ 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+VISHWAKARMA INSTITUTE OF TECHNOLOGY, PUNE   37 
+(An Autonomous Institute Affiliated to Savitribai Phule Pune 
+University) 
+ 
+ 
+ 
+ 
+BOOKLET FOR MULTIDISCIPLINARY MINOR SUBJECTS 
+ 
+Sr. No. 
+Department
+Minor Course Name
+Subject Code
+Available Seats 
+1
+AI&DS
+Augmented Reality and Virtual Reality(ARVR)
+AIM001
+144
+2
+AI&DS
+Image Processing
+AIM002
+144
+3
+AI&DS
+Computer Graphics
+AIM003
+144
+4
+Chemical
+Nanoscience and Nanotechnology
+CHM001
+30*
+5
+Chemical
+Biology and Engineering
+CHM002
+30*
+6
+Civil
+Climatology
+CVM001
+71
+7
+Computer
+Discrete Structures and Graph Theory
+CSM001
+936
+8
+CS-AI
+Discrete Mathematics
+CIM001
+436
+9
+CS-AIML
+Discrete Mathematics
+MLM001
+450
+10
+CS-CBI
+Internet of Things
+CBM001
+215
+11
+CS-DS
+Data Visualization
+DSM001
+206
+12
+CS-SE
+Agile Principles and Methodology
+SEM001
+215
+13
+ETC
+IOT for Smart Applications
+ETM001
+212
+14
+ETC
+Microcontroller and Applications
+ETM002
+211
+15
+INSTRU
+Sensor And Automation
+ICM001
+98
+16
+INSTRU
+Microcontroller and Applications
+ICM002
+98
+17
+IT
+IOT And Cloud
+ITM001
+77
+18
+IT
+Ethical Hacking
+ITM002
+77
+19
+IT
+Computer Graphics
+ITM003
+77
+20
+IT
+Augmented Reality and Virtual Reality
+ITM004
+77
+21
+IT
+Automated Software Testing
+ITM005
+77
+22
+IT
+Management Information Systems
+ITM006
+77
+23
+MECH
+Digital Crafting Techniques
+MEM001
+83
+24
+MECH
+Product Design and Development
+MEM002
+83
+25
+MECH
+Automobile Systems
+MEM003
+83
+26
+MECH
+Thermal Systems
+MEM004
+83
+27
+MECH
+Power Plant Engineering
+MEM005
+82
+*If all seats for the
+---
+  PDF: MDM-Courses-offered-by-CS_AY25_26_Ver1.pdf
+Vishwakarma Institute of Technology    
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Structure and syllabus of  B.Tech Computer Engineering. w.e.f A.Y. 2025-26 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+Vishwakarma Institute of Technology 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+Structure & Syllabus  
+Multi-Disciplinary Minor Courses 
+Offered by 
+Computer Engineering 
+With Effect from Academic Year 2025-26 
+Prepared by: - Board of Studies in Computer Engineering 
+Approved by: - Academic Board, Vishwakarma Institute of Technology, Pune 
+ 
+ 
+Chairman   BOS   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chairman   Academic Board 
+Vishwakarma Institute of Technology    
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Structure and syllabus of  B.Tech Computer Engineering. w.e.f A.Y. 2025-26 
+ 
+Vision of the Institution 
+ 
+"To be globally acclaimed Institute in Technical Education and Research for holistic Socio-economic development". 
+ 
+Mission of the Institution 
+  
+To ensure that 100% students are employable and employed in Industry, Higher Studies, become Entrepreneurs,  
+            Civil / Defense Services / Govt. Jobs and other areas like Sports and Theatre. 
+  
+To strengthen Academic Practices in terms of Curriculum, Pedagogy, Assessment and Faculty Competence. 
+  
+Promote Research Culture among Students and Faculty through Projects and Consultancy. 
+  
+To make students Socially Responsible Citizen. 
+ 
+ 
+Vishwakarma Institute of Technology    
+Issue 01 : Rev No. 00 : Dt. 0
+---
+=== BRANCH: CSE(AI) ===
+  PDF: CSE AI SY, TY, Final Year 2025-26.pdf
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+Vishwakarma Institute of Technology 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+Structure & Syllabus  
+B.Tech. Computer Science & Engineering (Artificial Intelligence) 
+ With Effect from Academic Year 2025-26 
+Prepared by: - Board of Studies in CSE (Artificial Intelligence) 
+Approved by: - Academic Board, Vishwakarma Institute of Technology, Pune 
+ 
+  
+ 
+ 
+Chairman   BOS   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chairman   Academic Board 
+Vishwakarma Institute of Technology    
+Issue 01: Rev No. 00: Dt. 01/08/22 
+ 
+Structure and syllabus of B. Tech Computer Sci. & Engineering. (AI) w. e. f A.Y. 2025-26 
+2 
+ 
+INDEX 
+SN 
+Particular 
+Page No 
+1 
+Vision and Mission of Institute 
+III 
+2 
+Vision and Mission of Department 
+IV 
+3 
+Board of Studies  
+V 
+4 
+Program Educational Objectives 
+VI 
+5 
+List of Program Outcomes 
+VII 
+6 
+List of Program Specific Outcomes 
+IX 
+7 
+NEP Nomenclatures 
+X 
+8 
+SY To B.Tech  Structures  
+XII 
+9 
+Second Year Module -III Content 
+01 
+10 
+Second Year Module -IV Content 
+35 
+11 
+Third Year Module -V Content 
+63 
+12 
+Third Year Module -VI Content 
+90 
+13 
+Assessment Guidelines AY 2024  
+111 
+ 
+ 
+Vishwakarma Institute of Technology    
+Issue 01: Rev No. 00: Dt. 01/08/22 
+ 
+Structure and syllabus of B. Tech Computer Sci. & Engineering. (AI) w. e. f A.Y. 2025-26 
+3 
+ 
+Vision of the Institution 
+ 
+"To be globally acclaimed Institute in Technical Education and Research for holistic Socio-economic development".
+---
+=== BRANCH: CSE(AIML) ===
+  PDF: CSE AIML SY, TY, Final Year 2025-26.pdf
+Vishwakarma Institute of Technology 
+Issue 01 : Rev No. 00 : Dt. 01/08/25 
+ 
+ 
+ 
+Dept. CSE(AI&ML) Syllabus                                                        A.Y.  2025-26                            
+ 
+ 
+ 
+ 
+ 
+INDEX 
+ 
+SN 
+Particular 
+Page No 
+1 
+Vision and Mission of Institute 
+III 
+2 
+Vision and Mission of Department 
+IV 
+3 
+Board of Studies 
+V 
+4 
+Program Educational Objectives 
+VI 
+5 
+List of Program Outcomes 
+VII 
+6 
+List of Program Specific Outcomes 
+IX 
+7 
+NEP Nomenclatures 
+X 
+8 
+SY To B.Tech Structures 
+XII 
+9 
+Second Year Module -III Content 
+01 
+10 
+Second Year Module -IV Content 
+34 
+11 
+Third Year Module -V Content 
+63 
+12 
+Third Year Module -VI Content 
+92 
+13 
+Final Year Module -VII & VIII Content 
+113 
+14 
+Assessment Guidelines AY 2024-25 
+114 
+Vishwakarma Institute of Technology 
+Issue 01 : Rev No. 00 : Dt. 01/08/25 
+ 
+ 
+ 
+Dept. CSE(AI&ML) Syllabus                                                        A.Y.  2025-26                            
+ 
+ 
+ 
+ 
+Vision of the Institution 
+"To be a globally acclaimed Institute in Technical Education and Research for holistic Socio-economic 
+development". 
+ 
+ 
+Mission of the Institution 
+  
+To ensure that 100% students are employable and employed in Industry, Higher Studies, 
+become Entrepreneurs, 
+Civil / Defense Services / Govt. Jobs and other areas like Sports and Theatre. 
+  
+To strengthen Academic Practices in terms of Curriculum, Pedagogy, Assessment and 
+Faculty Competence. 
+  
+Promote Research Culture among St
+---
+=== BRANCH: CSE(DS) ===
+  PDF: SY_Syllabus_AY_2025-26_Sem-II.pdf
+Vishwakarma Institute of Technology 
+Issue 01: Rev No. 00 : Dt. 01/08/22 
+Structure & Syllabus of CSE-Data Science, Pattern, A-24, A.Y.-2025-26 
+Page 1 of 32 
+ 
+ 
+ 
+FF No: 654 
+DS2009: DATABASE MANAGEMENT SYSTEM 
+ 
+Course Prerequisites: Data structures, Linear Algebra & calculus 
+Course Objectives: 
+  To understand the fundamental concepts of database management. 
+  To provide a strong formal foundation in database concepts, technology and applications. 
+  To give systematic database design approaches covering conceptual design, logical 
+design and an overview of physical design. 
+  To learn basic issues of transaction management and concurrency control. 
+Credits: 4 
+Teaching Scheme Theory: 3 Hours/Week 
+Tutorial: 1 Hour/Week 
+Lab: 2 Hours/Week 
+Course Relevance: 
+This course builds essential skills in designing, managing, and querying databases, which are the 
+backbone of all modern software applications. DBMS knowledge is crucial for careers in software 
+development, data analytics, AI, and enterprise systems. It enables students to handle real-world 
+data efficiently. 
+SECTION-I 
+Unit-I: 
+Introduction To DBMS: Introduction to Database Management Systems, Advantages of a 
+DBMS over file-processing Systems, Database-System purpose and applications, Levels of 
+Database Systems, Database Languages, Data Models, Components of a DBMS and overall 
+structure of a DBMS, Database Design and ER Model: Entity, Attributes, Relationships, 
+Constraints, types of Keys, Design Process, Ent
+---
+  PDF: SY_Website_Syllabus-A.Y.-2024-25_3_12_25.pdf
+Structure & Syllabus of CSE-Data Science, Pattern, A-24, A.Y.-2025-26 
+Page 1 of 32 
+Vishwakarma Institute of Technology 
+Issue 01: Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+ 
+ 
+ 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s  
+Vishwakarma Institute of Technology 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+ 
+NEP Compliant Structure & Syllabus of 
+Department of Computer Science and Engineering   Data Science Pattern 
+ A-24  
+S. Y. B. Tech. 
+ 
+Effective from Academic Year 2025-26 
+ 
+Prepared by: - Board of Studies in Computer Science and Engineering   
+Data Science  
+ Approved by: - Academic Board, Vishwakarma Institute of Technology,  
+ 
+Structure & Syllabus of CSE-Data Science, Pattern, A-24, A.Y.-2025-26 
+Page 2 of 32 
+Vishwakarma Institute of Technology 
+Issue 01: Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+ 
+ 
+Contents 
+ 
+ 
+Sr. No. 
+Title 
+Page No. 
+1. 
+Program Outcomes 
+3 
+2. 
+Course Structure   
+4 
+3. 
+DS2003 
+FUNDAMENTALS OF DATA 
+STRUCTURE AND ALGORITHMS 
+5 
+4. 
+DS2004 
+FUNDAMENTALS OF DATA SIENCE 
+10 
+5. 
+DS2005 
+OBJECT ORIENTED PROGRAMMING 
+14 
+6. 
+DS2006 
+COMPUTER NETWORK 
+18 
+7. 
+DSM001 
+DATA VISUALIZATION 
+21 
+8. 
+HS2002 
+FROM CAMPUS TO CORPORATE - 1 
+24 
+9. 
+HS2001 
+REASONING AND APTITUDE 
+DEVELOPMENT - 3 
+25 
+10. 
+DS2001 
+DESIGN THINKING - 3 
+27 
+11. 
+DS2002 
+ENGINEERING DESIGN AND 
+INNOVATION - III 
+29 
+Structure & Syllabus of CSE-Data Science, Pattern, A-24, A.Y.-2025-26 
+Page 3 of 32 
+Vishwakarma Institute of Technology 
+Issue 01: Rev No. 00 : Dt. 01/0
+---
+  PDF: TY_Website_Syllabus-A.Y.-2024-25_7_10_5.pdf
+1 of 40 
+ 
+ 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+Vishwakarma Institute of Information Technology, Pune-48 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T. Y. B. TECH CSE-DS 
+SEMESTER-V SYLLABUS 
+(PATTERN 2023-NEP) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 of 40 
+ 
+ 
+ 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+Vishwakarma Institute of Information Technology, Pune-48 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+ 
+ 
+Vision of Department 
+ Excellence in Data Science to empower the future of technology with holistic development." 
+ 
+Mission of Department 
+  M1: To impart quality education with contemporary industry needs using emerging 
+Machine Learning & Data Science techniques. 
+  M2: To cultivate a research-oriented mindset and comprehensive professional skills. 
+  M3: To equip learners with interdisciplinary skill sets to cater the needs of the industry and 
+society. 
+ 
+Program Specific Outcomes (PSO s) 
+ 
+PSO-1: Apply Data Science techniques to extract valuable insights from real-world data for 
+informed decision-making. 
+PSO-2: Apply Machine Learning and AI concepts for predictive modelling and intelligent 
+system development. 
+ 
+Program Outcomes (PO s) 
+At the end of program, students should be able to:  
+1. 
+Engineering knowledge: Apply the knowledge of mathematics, science, engineering 
+fundamentals and an engineering specialization to the solution of complex engineering problems.  
+2. 
+Prob
+---
+=== BRANCH: CSE(IOT_CYBER) ===
+  PDF: Final-SY_CSE-IoTCSBT-Curriculum-book_FF_654_0-Updated.pdf
+Vishwakarma Institute of Technology 
+Issue 01: Rev No. 00 : Dt. 01/08/22 
+Structure & Syllabus of SY CSE-IoTCSBT, Pattern, A-24, 
+Page 1 of 74 
+ 
+ 
+ 
+Structure & Syllabus of SY CSE-IoTCSBT, Pattern, A-24, 
+Page 2 of 74 
+Vishwakarma Institute of Technology      Issue 01 : Rev No. 00 : Dt. 01/08/22 
+ 
+Contents 
+ 
+Sr.No. 
+Title 
+Page 
+No. 
+1 
+Program Outcomes 
+3 
+2 
+Course Structure 
+4 
+3 
+CB2003 
+Fundamentals of Data Structures 
+6 
+4 
+CB2004 
+Data Communication and Networking 
+12 
+5 
+CB2005 
+Basics of IoT 
+16 
+6 
+CB2006 
+Object Oriented Programming 
+20 
+7 
+CBM001 
+Internet of Things 
+25 
+8 
+HS2002 
+From Campus to Corporate - 1 
+29 
+9 
+HS2001 
+Reasoning and Aptitude Development - 3 
+31 
+10 
+CB2001 
+Design Thinking   1  OR   
+International Tech Front Module 
+33 
+11 
+CB2002 
+Engineering Design and Innovation   1 OR 
+International Innovation Program 
+35 
+12 
+CB2009 
+Data Structures and Analysis of Algorithms 
+39 
+13 
+CB2010 
+Machine Learning 
+44 
+14 
+CB2011 
+Database Management Systems 
+49 
+15 
+CB2012 
+Computer Networks 
+55 
+16 
+MM0502 
+Software Project Management 
+60 
+17 
+HS2003 
+From Campus To Corporate - 2 
+65 
+18 
+HS2004 
+Reasoning and Aptitude Development - 4 
+67 
+19 
+CB2013 
+Design Thinking   2  OR   
+International Design Thinking Module 
+69 
+20 
+CB2014 
+Engineering Design and Innovation   2 OR  
+International Innovation Program 
+71 
+ 
+ 
+Structure & Syllabus of SY CSE-IoTCSBT, Pattern, A-24, 
+Page 3 of 74 
+Vishwakarma Institute of Technology      Issue 01 : Rev No. 00 : Dt. 0
+---
+  PDF: Syllabus-A.Y.-2024-25.pdf
+  Vishwakarma Institute of Technology                     Issue 01: Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Structure & Syllabus of DESH, Pattern, A-24, A.Y-2024-25 
+ Page 1 of 67 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+Vishwakarma Institute of Technology 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+NEP Compliant Structure & Syllabus 
+of 
+Department of Engineering, Sciences & Humanities (DESH) 
+Pattern  A-24  
+F. Y. B. Tech. 
+Effective from Academic Year 2024-25 
+Prepared by: - Board of Studies in Engineering, Sciences & Humanities 
+Approved by: - Academic Board, Vishwakarma Institute of Technology, Pune 
+Chairman- BoS 
+   Dean -  Academics 
+Chairman   Academic  Board 
+  Vishwakarma Institute of Technology                     Issue 01: Rev No. 00 : Dt. 01/08/22 
+ 
+ 
+Structure & Syllabus of DESH, Pattern, A-24, A.Y-2024-25 
+ Page 2 of 67 
+ 
+Contents 
+ 
+Sr. No.
+Title 
+Page No.
+1. 
+Program Outcomes 
+3 
+2. 
+Course Structure   
+4 
+3. 
+HS1071 
+Linear Algebra and Differential Equations 
+5 
+4. 
+CS1012 
+Problem Solving and Programming 
+7 
+5. 
+XX1016/XX1019/XX1020 
+Computer Organization and Architecture 
+9 
+6. 
+ET1019/IC1016 
+Electronic Circuits 
+11 
+7. 
+ME1019 
+Mechanical Systems Engineering 
+13 
+8. 
+CV1019 
+Engineering Mechanics 
+15 
+9. 
+  XX1015/XX1019//XX1020 
+Web Development 
+16 
+10.  
+ET1020/IC1015 
+Electronics Hardware Workshop 
+19 
+11.  
+ME1020 
+Mechanics of Machine Elements 
+21 
+12.  
+CV1020 
+Surveying 
+23 
+13.  
+HS1073 
+Ind
+---
+=== BRANCH: CSE(SE) ===
+  PDF: CESE-Second-Year-AY-2025-26-Sem-I.pdf
+Bansilal Ramnath Agarwal Charitable Trust s 
+VISHWAKARMA INSTITUTE OF TECHNOLOGY, PUNE   37 
+(An Autonomous Institute Affiliated to Savitribai Phule Pune University) 
+Department of Computer Engineering (Software Engineering) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Curriculum for S. Y. B. Tech. Sem-I 
+Computer Engineering (Software Engineering) 
+(2023 NEP Pattern) 
+Bansilal Ramnath Agarwal Charitable Trust s 
+VISHWAKARMA INSTITUTE OF TECHNOLOGY, PUNE   37 
+(An Autonomous Institute Affiliated to Savitribai Phule Pune University) 
+Department of Computer Engineering (Software Engineering) 
+ 
+College Vision and Mission 
+Vision: 
+To be a globally acclaimed Institute in Technical Education and Research for holistic socio-
+economic development 
+Mission: 
+  To ensure that 100% of students are employable and employed in industry, higher 
+studies, entrepreneurship, civil or defence services, government jobs, and other areas like 
+sports and arts. 
+  To strengthen Academic Practices in Curriculum, Pedagogy, Assessment and Faculty 
+Competence. 
+  To Promote Research Culture among Students and Faculty through Projects and 
+Consultancy 
+  To make students Socially Responsible Citizens 
+Department Vision and Mission 
+Vision: 
+  
+Empowering Industry through Comprehensive Software Engineering Services to Achieve 
+Excellence. 
+Mission: 
+  To produce industry-ready software engineering graduate with a blend of technical 
+expertise and ethical responsibility 
+  To provide software engineering students with 
+---
+  PDF: Double-Minor-Syllabus.pdf
+Bansilal Ramnath Agarwal Charitable Trust s 
+VISHWAKARMA INSTITUTE OF TECHNOLOGY, PUNE   37 
+(An Autonomous Institute Affiliated to Savitribai Phule Pune University) 
+Department of Computer Engineering (Software Engineering) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Structure & Syllabus of 
+Double Minor Courses in Network Security 
+ 
+Offered by 
+                    
+Computer Engineering (Software 
+Engineering)   
+ 
+ With Effect from Academic Year 2025-26 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+VISHWAKARMA INSTITUTE OF TECHNOLOGY, PUNE   37 
+(An Autonomous Institute Affiliated to Savitribai Phule Pune University) 
+Department of Computer Engineering (Software Engineering) 
+ 
+College Vision and Mission 
+ 
+Vision: 
+To be a globally acclaimed Institute in Technical Education and Research for holistic socio-
+economic development 
+ 
+Mission: 
+  To ensure that 100% of students are employable and employed in industry, higher 
+studies, entrepreneurship, civil or defence services, government jobs, and other areas like 
+sports and arts. 
+  To strengthen Academic Practices in Curriculum, Pedagogy, Assessment and Faculty 
+Competence. 
+  To Promote Research Culture among Students and Faculty through Projects and 
+Consultancy 
+  To make students Socially Responsible Citizens 
+ 
+Department Vision and Mission 
+ 
+Vision: 
+  
+Empowering Industry through Comprehensive Software Engineering Services to Achieve 
+Excellence. 
+ 
+Mission: 
+  To produce industry-ready software engineering graduate with a ble
+---
+  PDF: MDM-BOOKLET.pdf
+ 
+ 
+ 
+ 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+VISHWAKARMA INSTITUTE OF TECHNOLOGY, PUNE   37 
+(An Autonomous Institute Affiliated to Savitribai Phule Pune 
+University) 
+ 
+ 
+ 
+ 
+BOOKLET FOR MULTIDISCIPLINARY MINOR SUBJECTS 
+ 
+Sr. No. 
+Department
+Minor Course Name
+Subject Code
+Available Seats 
+1
+AI&DS
+Augmented Reality and Virtual Reality(ARVR)
+AIM001
+144
+2
+AI&DS
+Image Processing
+AIM002
+144
+3
+AI&DS
+Computer Graphics
+AIM003
+144
+4
+Chemical
+Nanoscience and Nanotechnology
+CHM001
+30*
+5
+Chemical
+Biology and Engineering
+CHM002
+30*
+6
+Civil
+Climatology
+CVM001
+71
+7
+Computer
+Discrete Structures and Graph Theory
+CSM001
+936
+8
+CS-AI
+Discrete Mathematics
+CIM001
+436
+9
+CS-AIML
+Discrete Mathematics
+MLM001
+450
+10
+CS-CBI
+Internet of Things
+CBM001
+215
+11
+CS-DS
+Data Visualization
+DSM001
+206
+12
+CS-SE
+Agile Principles and Methodology
+SEM001
+215
+13
+ETC
+IOT for Smart Applications
+ETM001
+212
+14
+ETC
+Microcontroller and Applications
+ETM002
+211
+15
+INSTRU
+Sensor And Automation
+ICM001
+98
+16
+INSTRU
+Microcontroller and Applications
+ICM002
+98
+17
+IT
+IOT And Cloud
+ITM001
+77
+18
+IT
+Ethical Hacking
+ITM002
+77
+19
+IT
+Computer Graphics
+ITM003
+77
+20
+IT
+Augmented Reality and Virtual Reality
+ITM004
+77
+21
+IT
+Automated Software Testing
+ITM005
+77
+22
+IT
+Management Information Systems
+ITM006
+77
+23
+MECH
+Digital Crafting Techniques
+MEM001
+83
+24
+MECH
+Product Design and Development
+MEM002
+83
+25
+MECH
+Automobile Systems
+MEM003
+83
+26
+MECH
+Thermal Systems
+MEM004
+83
+27
+MECH
+Power Plant Engineering
+MEM005
+82
+*If all seats for the
+---
+  PDF: SY-Syllabus-AY-2025-26-Sem-II.pdf
+Bansilal Ramnath Agarwal Charitable Trust s 
+VISHWAKARMA INSTITUTE OF TECHNOLOGY, PUNE   37 
+(An Autonomous Institute Affiliated to Savitribai Phule Pune University) 
+Department of Computer Engineering (Software Engineering) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Curriculum for S. Y. B. Tech. Sem-II 
+Computer Engineering (Software Engineering) 
+(2023 NEP Pattern) 
+Bansilal Ramnath Agarwal Charitable Trust s 
+VISHWAKARMA INSTITUTE OF TECHNOLOGY, PUNE   37 
+(An Autonomous Institute Affiliated to Savitribai Phule Pune University) 
+Department of Computer Engineering (Software Engineering) 
+ 
+College Vision and Mission 
+ 
+Vision: 
+To be a globally acclaimed Institute in Technical Education and Research for holistic socio-
+economic development 
+ 
+Mission: 
+  To ensure that 100% of students are employable and employed in industry, higher 
+studies, entrepreneurship, civil or defence services, government jobs, and other areas like 
+sports and arts. 
+  To strengthen Academic Practices in Curriculum, Pedagogy, Assessment and Faculty 
+Competence. 
+  To Promote Research Culture among Students and Faculty through Projects and 
+Consultancy 
+  To make students Socially Responsible Citizens 
+ 
+Department Vision and Mission 
+ 
+Vision: 
+  
+Empowering Industry through Comprehensive Software Engineering Services to Achieve 
+Excellence. 
+ 
+Mission: 
+  To produce industry-ready software engineering graduate with a blend of technical 
+expertise and ethical responsibility 
+  To provide software engineering
+---
+=== BRANCH: DESH ===
+  PDF: FY-B-Tech-Syllabus-A.Y2025-26.pdf
+  Vishwakarma Institute of Technology                     Issue 01: Rev No. 00: Dt. 01/08/22 
+ 
+ 
+Structure & Syllabus of DESH, Pattern, A-24, A.Y-2025-26 
+ Page 1 of 64 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+Vishwakarma Institute of Technology 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+NEP Compliant Structure & Syllabus 
+of 
+Department of Engineering, Sciences & Humanities (DESH) 
+Pattern  A-24  
+F. Y. B. Tech. 
+Effective from Academic Year 2025-26 
+Prepared by: - Board of Studies in Engineering, Sciences & Humanities 
+Approved by: - Academic Board, Vishwakarma Institute of Technology, Pune 
+ 
+ 
+ 
+ 
+Chairman- BoS 
+   Dean -  Academics 
+Chairman   Academic  Board 
+  Vishwakarma Institute of Technology                     Issue 01: Rev No. 00: Dt. 01/08/22 
+ 
+ 
+Structure & Syllabus of DESH, Pattern, A-24, A.Y-2025-26 
+ Page 2 of 64 
+ 
+Contents 
+ 
+Sr. No. 
+Title 
+Page No. 
+1. 
+Program Outcomes 
+3 
+2. 
+Course Structure   
+4 
+3. 
+HS1084 
+Linear Algebra 
+5 
+4. 
+CS1012 
+Problem Solving and Programming 
+7 
+5. 
+XX1016 
+Computer Organization and Architecture 
+9 
+6. 
+XX1016 
+Electronic Circuits 
+11 
+7. 
+ME1019 
+Mechanical Systems Engineering 
+13 
+8. 
+CV1019 
+Engineering Mechanics 
+15 
+9. 
+          XX1015  
+Web Development 
+16 
+10.  
+XX1015 
+Electronics Hardware Workshop 
+19 
+11.  
+ME1020 
+Mechanics of Machine Elements 
+22 
+12.  
+CV1020 
+Surveying 
+24 
+13.  
+HS1073 
+Indian Knowledge System 
+26 
+14.  
+HS1085 
+Calculus 
+28 
+---
+=== BRANCH: ENTC ===
+  PDF: ETC-structure-and-Syllabus-2024-25-Merged-1.pdf
+ 
+ 
+ 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+ 
+Vishwakarma Institute of Technology 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+ 
+Structure and Syllabus of 
+B.Tech. 
+Electronics and Telecommunication 
+Engineering 
+Effective from Academic Year 2024-25 
+ 
+ 
+Prepared by: - Board of Studies in Electronics and Telecommunication 
+Approved by: - Academic Board, Vishwakarma Institute of Technology, Pune 
+ 
+ 
+ 
+ 
+ 
+Chairman   BOS 
+Chairman   Academic Board 
+Vishwakarma Institute of Technology 
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+Structure and Syllabus of B.Tech. Electronics and Telecommunication Engineering. A.Y. 2024-25 
+Page 2 
+ 
+ 
+ 
+ 
+ 
+Institute Vision 
+ 
+ To be a globally acclaimed institute in technical education and research for holistic socio- 
+economic development.  
+ 
+Institute Mission 
+ 
+ 
+  
+To ensure that 100% students are employable and employed in Industry, Higher Studies, 
+become Entrepreneurs, Civil / Defense Services / Govt. Jobs and other areas like Sports and 
+Theatre. 
+  
+To strengthen Academic Practices in terms of Curriculum, Pedagogy, Assessment and 
+Faculty Competence. 
+  
+Promote Research Culture among Students and Faculty through Projects and Consultancy. 
+  
+To make students Socially Responsible Citizen. 
+ 
+ 
+ 
+Department Vision 
+ To be a centre of academic excellence in Electronics, Telecommunication and related 
+domains through continuous learning and innovation.  
+ 
+Department Mission 
+ 
+  
+To provide state of art 
+---
+  PDF: merged-SY.pdf
+ 
+ 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+ 
+Vishwakarma Institute of Technology 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+ 
+Structure and Syllabus of 
+B.Tech. 
+Electronics and Telecommunication 
+Engineering 
+Effective from Academic Year 2025-26 
+ 
+ 
+Prepared by: - Board of Studies in Electronics and Telecommunication Approved by: - Academic Board, 
+Vishwakarma Institute of Technology, Pune 
+ 
+ 
+ 
+ 
+ 
+Chairman   BOS 
+Chairman   Academic Board 
+Vishwakarma Institute of Technology 
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+Structure and Syllabus of B.Tech. Electronics and Telecommunication Engineering. A.Y. 2025-26 
+Page 2 
+ 
+ 
+ 
+ 
+ 
+Institute Vision 
+ 
+ To be a globally acclaimed institute in technical education and research for holistic socio- 
+economic development.  
+ 
+Institute Mission 
+ 
+ 
+  
+To ensure that 100% students are employable and employed in Industry, Higher Studies, 
+become Entrepreneurs, Civil / Defense Services / Govt. Jobs and other areas like Sports and 
+Theatre. 
+  
+To strengthen Academic Practices in terms of Curriculum, Pedagogy, Assessment and 
+Faculty Competence. 
+  
+Promote Research Culture among Students and Faculty through Projects and Consultancy. 
+  
+To make students Socially Responsible Citizen. 
+ 
+ 
+ 
+Department Vision 
+ To be a centre of academic excellence in Electronics, Telecommunication and related 
+domains through continuous learning and innovation.  
+ 
+Department Mission 
+ 
+  
+To provide state of art ed
+---
+  PDF: merged-TY-and-Final.pdf
+ 
+ 
+ 
+ 
+Bansilal Ramnath Agarwal Charitable Trust s 
+ 
+Vishwakarma Institute of Technology 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+ 
+Structure and Syllabus of 
+B.Tech. 
+Electronics and Telecommunication 
+Engineering 
+Effective from Academic Year 2025-26 
+ 
+ 
+Prepared by: - Board of Studies in Electronics and Telecommunication 
+Approved by: - Academic Board, Vishwakarma Institute of Technology, Pune 
+ 
+ 
+ 
+ 
+ 
+Chairman   BOS 
+Chairman   Academic Board 
+Vishwakarma Institute of Technology 
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+Structure and Syllabus of B.Tech. Electronics and Telecommunication Engineering. A.Y. 2025-26 
+Page 2 
+ 
+ 
+ 
+ 
+ 
+Institute Vision 
+ 
+ To be a globally acclaimed institute in technical education and research for holistic socio- 
+economic development.  
+ 
+Institute Mission 
+ 
+ 
+  
+To ensure that 100% students are employable and employed in Industry, Higher Studies, 
+become Entrepreneurs, Civil / Defense Services / Govt. Jobs and other areas like Sports and 
+Theatre. 
+  
+To strengthen Academic Practices in terms of Curriculum, Pedagogy, Assessment and 
+Faculty Competence. 
+  
+Promote Research Culture among Students and Faculty through Projects and Consultancy. 
+  
+To make students Socially Responsible Citizen. 
+ 
+ 
+ 
+Department Vision 
+ To be a centre of academic excellence in Electronics, Telecommunication and related 
+domains through continuous learning and innovation.  
+ 
+Department Mission 
+ 
+  
+To provide state of art 
+---
+=== BRANCH: INSTRU ===
+  PDF: Syllabus-25-26.pdf
+Vishwakarma Institute of Technology 
+VISHWAKARMA 
+INSTITUTES 
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+Bansilal Ramnath Agarwal Charitable Trust's 
+VI 
+Vishwakarma Institute of Technology 
+(An Autonomous Institute affiliated to Savitribai Phule Pune University) 
+Structure & Syllabus of 
+Second Year B.Tech. 
+(Instrumentation and Control Engineering) 
+Pattern 
+B25 
+Effective from Academic Year 2025-26 
+Prepared by: - Board of Studies in Instrumentation & Control Engineering 
+Approved by: Academic Board, Vishwakarma Institute of Technology, Pune 
+Signed by 
+Chairman  BOS 
+Dean Academics Chairman- Academic Board 
+Instrumeitation 
+Department 
+Tnstitute of 
+*Pune 
+chiorog 
+Syllabus of SY BTech (instrumentation and Control) offered by B.O.S. in Instrumentation Engineering for 
+Academic Year 2025-26 
+Vishwakarma Institute of Technology                                Issue 01 : Rev No. 00 : Dt. 01/08/22 
+2 
+ 
+Contents  
+Sr. No. 
+Title 
+Page No. 
+1 
+  
+Vision, Mission of Institute and Department 
+3 
+2 
+  
+PEOs, Knowledge and Attitude Profile (WK) and POs 
+4 
+3 
+  
+POs and PSOs 
+5 
+4 
+  
+Course Structure 
+8 
+5 
+  
+ Separator  -  Semester I 
+10 
+6 
+  
+Course Syllabi for courses -  Semester I (Module-III) 
+11 
+ 
+6.1 
+IC2301 
+S1 
+Data Science 
+11 
+  
+6.2 
+IC2303 
+S2 
+Sensors and Transducers 
+15 
+  
+6.3 
+IC2305 
+S3 
+Object Oriented Programming 
+18 
+  
+6.4 
+IC2307 
+S4 
+Data Base Management System 
+25 
+ 
+6.5 
+ICMXXX 
+S5 
+MDM 
+Please See Academic Booklet for MDM, Honor and 
+Double Minor courses 
+---
+=== BRANCH: IT ===
+  PDF: 4-25_26_Final-Syllabus-ver-4.pdf
+Issue 01: Rev No. 00: Dt. 01/08/2022
+Vishwakarma Institute of Technology, Pune
+[SY-TY-FINAL YEAR INFORMATION TECHNOLOGY AY2025-26] 
+2 
+ 
+ 
+B. Tech. Information Technology (applicable w.e.f. AY 2025-26) 
+Index 
+ 
+Sr. 
+No 
+Course 
+Code 
+Title/Course Name 
+Page No. 
+1 
+- 
+Vision, Mission, PO, PEO, PSO 
+5 
+ 
+Structure 
+Module III 
+8 
+2 
+IT2301 
+ Data Structures 
+10 
+3 
+IT2305 
+Operating System 
+15 
+4 
+IT2303 
+Digital Electronics and Microprocessor 
+19 
+5 
+IT2304 
+Discrete Mathematics 
+22 
+6 
+IT2268 
+Design Thinking - 3 
+24 
+7 
+IT2272 
+Engineering Design and Innovation - Iii 
+26 
+8 
+HS2002 
+From Campus to Corporate - 1 
+ 
+9 
+HS2001 
+Reasoning And Aptitude Development 
+ 
+10 
+MDM 
+Multidisciplinary Minor (List of subjects attached 
+separately) 
+ 
+ 
+Structure 
+Module IV 
+9 
+11 
+IT2305 
+Object Oriented Programming 
+29 
+12 
+IT2306 
+Database Management Systems 
+34 
+13 
+IT2307 
+Software Engineering & Project Management 
+38 
+14 
+IT2308 
+Automata Theory 
+42 
+15 
+IT2270 
+DESIGN THINKING - 4 
+44 
+16 
+IT2264 
+ENGINEERING DESIGN AND INNOVATION - IV 
+46 
+17 
+  
+HSS (institute level elective) 
+ 
+18 
+HS2002 
+Reasoning And Aptitude Development 
+ 
+19 
+MDM 
+Multidisciplinary Minor (List of subjects attached 
+separately) 
+49 
+ 
+Structure 
+Module V 
+51 
+20 
+IT3221 
+Operating System 
+53 
+Issue 01: Rev No. 00: Dt. 01/08/2022
+Vishwakarma Institute of Technology, Pune
+[SY-TY-FINAL YEAR INFORMATION TECHNOLOGY AY2025-26] 
+3 
+ 
+ 
+21 
+ 
+Coursera Certificate Courses (List attached on Page 5) 
+5 
+22 
+IT3202 
+ S
+---
+=== BRANCH: MECH ===
+  PDF: SY-Mech.-Signed-by-Director-_AY2025-26.pdf
+Vishwakarma Institute of Technology,  
+ 
+ 
+Issue 01 : Rev No. 00 : Dt. 01/08/22 
+ 
+SY MECH. Structure and syllabus of Mechanical Engineering. A.Y 2025-2026 
+Vishwakarma Institute of Technology, Pune 
+ 
+Vision and Mission of the Institute 
+ 
+Vision: 
+ 
+To be a globally acclaimed Institute in Technical Education and Research for holistic Socio-
+economic development 
+ 
+Mission: 
+  To ensure 100% students are employable and employed in Industry, Higher Studies, 
+become Entrepreneurs, civil/Defense Services/Govt Jobs and other areas like Sports and 
+Theatres. 
+  To strengthen academic practices in terms of curriculum, pedagogy, assessment and 
+faculty competence 
+  Promote research culture among students and faculty through projects and consultancy 
+  To make students socially responsible citizens 
+ 
+Core Values 
+ 
+1. Faculty Centric Initiatives 
+2. Academic Practices 
+3. Research Culture 
+4. Use of Technology for Social and National Development 
+ 
+Vision and Mission of the Department 
+ 
+Vision: 
+To be recognized as one of the pre-eminent Mechanical Engineering Programs 
+ 
+Mission: 
+  To prepare students competent to make their careers in Mechanical Engineering  
+  To provide value education to students to make them responsible citizen  
+  To strengthen collaborations with Industries, Academia and Research Organizations to 
+enrich learning environment and to enhance Research Culture 
+  To be recognized as a leading Mechanical Engineering Department in the field of 
+knowledge, skil
+---

@@ -1,0 +1,653 @@
+﻿\n=== AIDS ===
+  AI2301: Data Structures
+  AI2302: Foundations of Intelligent Digital System
+  AI2303: Database Management System
+  AI2304: Discrete Structures and Computational Theory
+  HS2002: From Campus to Corporate
+  AI2305: Design Thinking- I
+  AI2307: Object Oriented Programming
+  AI2308: Computer Network
+  AI2309: Mathematical foundations for Artificial Intelligence
+  AI2310: Probability and Applied Statistics
+  AI2311: Design Thinking II
+  AI2312: Engineering Design & Innovation II
+  AI3001: Artificial Intelligence
+  AI3002: Operating System
+  AI3003: Statistical Inference
+  AI3004: Machine Learning
+  AI3011: Complexity Algorithms
+  AI3012: Software Design and Methodologies
+  AI3010: Deep learning
+  AI3015: Design Thinking VI
+  AI4025: High Performance Computing
+  AI4005: Major Project
+  AI4023: Design Thinking VII
+  AI4008: Industry Internship
+  AI4011: International Internship
+  AI4010: Research Internship
+  AI4009: Project Internship
+  HS2003: From Campus 
+to Corporate
+  AI3013: Design 
+Thinking- V 
+- 
+-
+  AI3005: Design 
+Thinking- V 
+- 
+-
+  MD3101: IBM Full Stack Software Developer
+  MD3103: IBM Back-End Developer
+  MD3106: Microsoft Power BI Data Analyst
+  MD3110: IBM Cybersecurity Analyst
+  MD3112: Google Cybersecurity
+  MD3115: IBM Data Analytics with Excel and R
+  MD3116: IBM Data Engineering
+  MD3117: Meta Database Engineer
+  MD3120: IBM Data Warehouse Engineer
+  MD3121: IBM DevOps and Software Engineering
+  MD3124: IBM Front-End Developer
+  MD3126: Meta iOS/Android Developer
+  MD3130: IBM Mainframe Developer
+  MD3132: Akamai Network Engineering
+  MD3140: SAP Technology Consultant
+  MD3141: AWS Cloud Technology Consultant
+  MD3142: Google UX Design
+  MD4274: Bucket
+  MD4282: Bucket
+\n=== CSE ===
+  >> WK2 Conceptually-based mathematics, numerical analysis, data analysis, statistic
+  >> carbon, and similar concepts, that supports engineering design and operations in
+  >> Engineering Knowledge: Apply knowledge of mathematics, natural science, computin
+  >> Design/Development of Solutions: Design creative solutions for complex engineeri
+  >> design/develop systems/components/processes to meet identified needs with consid
+  >> problems using research-based knowledge including design of experiments, modelli
+  >> interpretation of data to provide valid conclusions. (WK8).
+  >> society at large, such as being able to comprehend and write effective reports a
+  CS3052: Computer Networks 
+(Modules V & VI))
+  CS3205: Design and Analysis of 
+Algorithms
+  CS3061: Software Modelling and 
+Design
+  CS3202: Artificial Intelligence
+  CS3334: Cryptography and 
+Information Security
+  MD3145: Data Engineering ----offered by Barclays (AbInitio) 
+Course
+  CS3215: Web Technology
+  CS3053: Compiler Design
+  CS4217: Human Computer 
+Interaction
+  CS4209: Parallel Computing
+  CS4222: Image Processing
+  CS4275: Swayam 
+Introduction to 
+Machine Learning
+  CS4276: Swayam 
+Deep Learning
+  CS4225: Major Project
+  CS4236: Industry Internship 
+-
+  CS4238: Research 
+Internship 
+-
+  CS4226: Major Project
+  CS4232: Industry Internship 
+-
+  CS4202: Research 
+Internship 
+-
+  >> Conceptually-based mathematics, numerical analysis, data analysis, statistics an
+  >> carbon, and similar concepts, that supports engineering design and operations in
+  >> Engineering Knowledge: Apply knowledge of mathematics, natural science, computin
+  >> Design/Development of Solutions: Design creative solutions for complex engineeri
+  >> design/develop systems/components/processes to meet identified needs with consid
+  >> problems using research-based knowledge including design of experiments, modelli
+  >> interpretation of data to provide valid conclusions. (WK8).
+  >> society at large, such as being able to comprehend and write effective reports a
+  HS1071: Linear Algebra and Differential Equations
+  CS1012: Problem Solving and Programming
+  XX1020: Computer Organization and Architecture
+  IC1016: Electronic Circuits
+  ME1019: Mechanical Systems Engineering
+  CV1019: Engineering Mechanics
+  IC1015: Electronics Hardware Workshop
+  ME1020: Mechanics of Machine Elements
+  CV1020: Surveying
+  HS1073: Indian Knowledge System
+  HS1076: Calculus and Statistics
+  ET1012: Applied Electromechanics
+  CS1018: Python for Engineers
+  XX1017: Data Analysis
+  ET1017: Digital Logic Design and Testing
+  ME1017: Engineering Graphics
+  CV1017: Elements of Construction Engineering
+  HS1077: Universal Human Values
+  IC1014: Scientific Research Methods
+  HS1072: Reasoning and Aptitude Development
+  HS1075: Student Activity
+  HS1027: Induction Training
+  HS1079: Reasoning and Aptitude Development
+  HS1081: Student Activity
+  ES1014: Environmental Science
+  HS1036: Indian Democracy and Constitution
+  HS1074: General Proficiency
+  HS1080: General Proficiency
+  >> WK2 Conceptually-based mathematics, numerical analysis, data analysis, statistic
+  >> zero carbon, and similar concepts, that supports engineering design and operatio
+  >> Engineering Knowledge: Apply knowledge of mathematics, natural science, computin
+  >> Design/Development of Solutions: Design creative solutions for complex engineeri
+  >> and design/develop systems/components/processes to meet identified needs with co
+  >> problems using research-based knowledge including design of experiments, modelli
+  >> interpretation of data to provide valid conclusions. (WK8).
+  >> society at large, such as being able to comprehend and write effective reports a
+  ESP8266: Wi-Fi module
+  >> WK2 Conceptually-based mathematics, numerical analysis, data analysis, statistic
+  >> zero carbon, and similar concepts, that supports engineering design and operatio
+  >> Engineering Knowledge: Apply knowledge of mathematics, natural science, computin
+  >> Design/Development of Solutions: Design creative solutions for complex engineeri
+  >> and design/develop systems/components/processes to meet identified needs with co
+  >> problems using research-based knowledge including design of experiments, modelli
+  >> interpretation of data to provide valid conclusions. (WK8).
+  >> society at large, such as being able to comprehend and write effective reports a
+\n=== CSE(AI) ===
+  CI2014: Digital Systems and 
+Microprocessor
+  CIM001: Discrete Mathematics
+  HS2002: From Campus to Corporate -
+  HS2001: Reasoning And Aptitude 
+Development -
+  CI2006: Design Thinking -
+  CI2007: Engineering Design and 
+Innovation - III
+  CI3001: Computer Network 
+Technology
+  CI3002: Design and Analysis of 
+Algorithms
+  CI3003: Artificial Neural 
+Networks
+  CI3004: Cloud Computing
+  CI3007: Software Engineering
+  CI3008: Cyber Security and 
+Blockchain
+  CI3009: Deep Learning
+  CI4002: Swayam
+  CI4001: Generative AI
+  CI4008: Major Project
+  CI4010: Industry Internship 
+-
+  CI4011: Project Internship 
+-
+  CI4012: Research 
+Internship 
+-
+  CI4013: Global Internship 
+-
+\n=== CSE(AIML) ===
+  ML2312: Engineering Design And 
+Innovation -
+  ML3001: Computer Network 
+Technology
+  ML3002: Design and Analysis of 
+Algorithms
+  ML3003: Machine Learning
+  ML3004: Cloud Computing
+  ML3008: Software 
+Engineering
+  ML3009: Cyber Security and 
+Blockchain
+  ML3010: Deep Learning
+  ML3012: Engineering Design 
+and Innovation -
+  ML4001: Generative AI
+  ML4009: Major Project
+  ML4011: Industry Internship 
+-
+  ML4012: Project Internship
+  ML4013: Research Internship 
+-
+  ML4016: Generative AI
+  ML4018: Major Project
+  ML4019: Industry Internship 
+-
+  ML4020: Project Internship 
+-
+  ML4021: Research Internship 
+-
+  ML4022: Global Internship 
+-
+\n=== CSE(DS) ===
+  >> Structure & Syllabus of CSE-Data Science, Pattern, A-24, A.Y.-2025-26
+  >> DS2009: DATABASE MANAGEMENT SYSTEM
+  >> Course Prerequisites: Data structures, Linear Algebra & calculus
+  >> ΓùÅ To understand the fundamental concepts of database management.
+  >> ΓùÅ To provide a strong formal foundation in database concepts, technology and app
+  >> ΓùÅ To give systematic database design approaches covering conceptual design, logi
+  >> design and an overview of physical design.
+  >> ΓùÅ To learn basic issues of transaction management and concurrency control.
+  >> This course builds essential skills in designing, managing, and querying databas
+  >> backbone of all modern software applications. DBMS knowledge is crucial for care
+  >> development, data analytics, AI, and enterprise systems. It enables students to 
+  >> data efficiently.
+  >> Introduction To DBMS: Introduction to Database Management Systems, Advantages of
+  >> DBMS over file-processing Systems, Database-System purpose and applications, Lev
+  >> Database Systems, Database Languages, Data Models, Components of a DBMS and over
+  >> structure of a DBMS, Database Design and ER Model: Entity, Attributes, Relations
+  >> Constraints, types of Keys, Design Process, Entity Relationship Model, ER Diagra
+  >> SQL : Characteristics and advantages, SQL Data Types and Literals, Data independ
+  >> Ordering of Tuples, Aggregate Functions, Nested Queries, Database Modification u
+  >> Relational Database Design: Relational Model: Basic concepts, Attributes and Dom
+  >> Database Transactions: Basic concept of a Transaction, Transaction Management, P
+  >> Structure & Syllabus of CSE-Data Science, Pattern, A-24, A.Y.-2025-26
+  >> Concurrency Control: Need, Locking Methods, Deadlocks.
+  >> Advances in Databases: Introduction to NoSQL, Structured verses Unstructured dat
+  >> Different NoSQL Data Models, NoSQL using MongoDB, Query optimization.
+  >> 1. Design any database with at least 3 entities and relationships between them. 
+  >> 2. Design and implement a database and apply at least 10 different DML queries f
+  >> database. Use nested queries, group by and having clauses.
+  >> table using its corresponding view. Also consider restrictions on updatable view
+  >> 6. Choose an appropriate case study suitable for NOSQL database and create a dat
+  >> 7. Execute at least 10 queries on any suitable MongoDB database that demonstrate
+  >> 9. Draw and normalize the design up to at ER Diagram least 3NF in case of back e
+  >> RDBMS. Use recent platforms/database tools/engines like SQLite, LeetCode.
+  >> A. Build a suitable GUI by using forms and placing the controls on it for any
+  >> ticket booking etc.). Proper data entry validations are expected.
+  >> data from the database. Make a user-friendly interface for system interaction. Y
+  >> Structure & Syllabus of CSE-Data Science, Pattern, A-24, A.Y.-2025-26
+  >> 7) Compare different database types of databases
+  >> Structured and non-structured database is applicable.
+  >> 1. Abraham Silberschatz, Henry F. Korth, S. Sudarshan; ΓÇòDatabase System Concepts
+  DS2003: FUNDAMENTALS OF DATA 
+STRUCTURE AND ALGORITHMS
+  DS2004: FUNDAMENTALS OF DATA SIENCE
+  DS2005: OBJECT ORIENTED PROGRAMMING
+  DS2006: COMPUTER NETWORK
+  DSM001: DATA VISUALIZATION
+  HS2002: FROM CAMPUS TO CORPORATE -
+  HS2001: REASONING AND APTITUDE 
+DEVELOPMENT -
+  DS2001: DESIGN THINKING -
+  DS2002: ENGINEERING DESIGN AND 
+INNOVATION - III
+  CD31231: DESIGN AND ANALYSIS OF ALGORITHM
+  CD31232: ARTIFICIAL INTELLIGENCE
+  CD31233: COMPUTER NETWORK
+  MDM31235: STATISTICAL METHODS IN SIX SIGMA
+  CD31235: PROJECT WORK-
+\n=== CSE(IOT_CYBER) ===
+  CB2003: Fundamentals of Data Structures
+  CB2004: Data Communication and Networking
+  CB2005: Basics of IoT
+  CB2006: Object Oriented Programming
+  CBM001: Internet of Things
+  HS2002: From Campus to Corporate -
+  HS2001: Reasoning and Aptitude Development -
+  CB2009: Data Structures and Analysis of Algorithms
+  CB2010: Machine Learning
+  CB2011: Database Management Systems
+  CB2012: Computer Networks
+  MM0502: Software Project Management
+  HS2003: From Campus To Corporate -
+  HS2004: Reasoning and Aptitude Development -
+  CB2002: Engineering Design and 
+Innovation -
+  MM050: Software Project 
+Management 
+ 
+ 
+ 
+HA
+  CB2014: Engineering Design and 
+Innovation -
+  ESP8266: WiFi module
+  HS1071: Linear Algebra and Differential Equations
+  CS1012: Problem Solving and Programming
+  XX1020: Computer Organization and Architecture
+  IC1016: Electronic Circuits
+  ME1019: Mechanical Systems Engineering
+  CV1019: Engineering Mechanics
+  IC1015: Electronics Hardware Workshop
+  ME1020: Mechanics of Machine Elements
+  CV1020: Surveying
+  HS1073: Indian Knowledge System
+  HS1076: Calculus and Statistics
+  ET1012: Applied Electromechanics
+  CS1018: Python for Engineers
+  XX1017: Data Analysis
+  ET1017: Digital Logic Design and Testing
+  ME1017: Engineering Graphics
+  CV1017: Elements of Construction Engineering
+  HS1077: Universal Human Values
+  IC1014: Scientific Research Methods
+  HS1072: Reasoning and Aptitude Development
+  HS1075: Student Activity
+  HS1027: Induction Training
+  HS1079: Reasoning and Aptitude Development
+  HS1081: Student Activity
+  ES1014: Environmental Science
+  HS1036: Indian Democracy and Constitution
+  HS1074: General Proficiency
+  HS1080: General Proficiency
+\n=== CSE(SE) ===
+  SE2003: FUNDAMENTAL
+S OF DATA 
+STRUCTURES 
+T
+H
+  SE2004: DATABASE 
+MANAGEMENT  
+SYSTEMS 
+T
+H
+  SE2005: OPERATING 
+SYSTEMS 
+T
+H
+  SE2006: OBJECT 
+ORIENTED 
+PROGRAMMING 
+T
+H
+  SE2001: Design 
+Thinking
+  SE2002: ENGINEERING 
+DESIGN AND 
+INNOVATION-III
+  >> Department of Computer Engineering (Software Engineering)
+  >> Double Minor Courses in Network Security
+  >> Computer Engineering (Software
+  >> Department of Computer Engineering (Software Engineering)
+  >> Empowering Industry through Comprehensive Software Engineering Services to Achie
+  >> ΓÇó To produce industry-ready software engineering graduate with a blend of techni
+  >> ΓÇó To provide software engineering students with the utmost quality in developing
+  >> Department of Computer Engineering (Software Engineering)
+  >> ΓÇó WK2: Conceptually-based mathematics, numerical analysis, data analysis, statis
+  >> design and operations in a practice area.
+  >> Department of Computer Engineering (Software Engineering)
+  >> ΓÇó PO1: Engineering Knowledge: Apply knowledge of mathematics, natural science,
+  >> ΓÇó PO3: Design/Development of Solutions: Design creative solutions for complex
+  >> engineering problems and design/develop systems/components/processes to meet
+  >> engineering problems using research-based knowledge including design of experime
+  >> modelling, analysis & interpretation of data to provide valid conclusions. (WK8)
+  >> reports and design documentation, make effective presentations considering cultu
+  ESP8266: Wi-Fi module
+  SE2009: DESIGN & 
+ANALYSIS OF 
+ALGORITHM
+  SE2010: COMPUTER 
+NETWORKS
+  SE2011: BIG DATA 
+ANALYTICS
+  SE2012: SOFTWARE 
+ENGINEERING
+  MM0802: PROBABILITY & 
+STATISTICS
+  HS2003: FROM CAMPUS 
+TO CORPORATE 
+-
+  HS2004: REASONING 
+AND APTITUDE 
+DEVELOPMENT -
+  SE2014: ENGINEERING 
+DESIGN AND 
+INNOVATION - II 
+-
+\n=== DESH ===
+  HS1084: Linear Algebra
+  CS1012: Problem Solving and Programming
+  XX1016: Computer Organization and Architecture
+  ME1019: Mechanical Systems Engineering
+  CV1019: Engineering Mechanics
+  XX1015: Web Development
+  ME1020: Mechanics of Machine Elements
+  CV1020: Surveying
+  HS1073: Indian Knowledge System
+  HS1085: Calculus
+  ET1012: Applied Electromechanics
+  CS1018: Python for Engineers
+  XX1017: Data Analysis
+  ET1017: Digital Logic Design and Testing
+  ME1017: Engineering Graphics
+  CV1017: Elements of Construction Engineering
+  HS1077: Universal Human Values
+  XX1013: Scientific Research Methods
+  HS1072: Reasoning and Aptitude Development
+  HS1083: Student Activity
+  HS1027: Induction Training
+  XX1020: Scientific Research Methods
+  HS1079: Reasoning and Aptitude Development
+  HS1082: Environmental Studies
+  HS1036: Indian Democracy and Constitution
+  ES1056: Scientific Research Methods
+  ES1057: Applied Science and Engineering Project
+  HS1074: General Proficiency
+  XX1014: Applied Science and Engineering Project
+  HS1080: General Proficiency
+\n=== ENTC ===
+  MD2201: Data Science
+  CS2221: Internet of Things
+  CS2218: Object Oriented 
+Programming
+  CS2227: Database 
+Management Systems
+  ET2290: Signals And 
+Systems
+  ET2270: Advanced Data 
+Structures
+  ET2271: Digital System
+  ET2293: Semiconductor Devices 
+and Circuits
+  ET2291: Network Theory
+  ET3002: Digital Signal 
+Processing
+  ET3221: Computer Vision
+  ET3206: Digital Design
+  ET3271: Embedded System 
+Design
+  ET3282: Design Thinking
+  SH3001: Reasoning And Aptitude 
+Development
+  ET3272: Design and Analysis 
+of Algorithms
+  ET3265: Control Systems
+  ET3274: Operating Systems
+  ET3277: Digital 
+Communication
+  ET3285: Computer Network 
+Security
+  ET3203: Power 
+Electronics And 
+Drives
+  ET3286: Design Thinking
+  ET4230: Natural Language 
+Processing
+  ET4232: Deep Learning
+  ET4431: Design Thinking -
+  LPC2148: Timers and ADC
+  ET2301: Data 
+Structure
+s
+  ET2302: Digital Electronics
+  ET2304: Signals and Systems
+  ETM001: IoT for Smart 
+Applications
+  HS2002: From Campus To 
+Corporate -
+  HS2001: Reasoning And 
+Aptitude 
+Development -
+  ET2306: Engineering Design 
+And Innovation -
+  ET2305: Design Thinking -
+  ET2307: Communication 
+Engineering
+  ET2308: Control Systems
+  ET2309: Operating Systems
+  ET2311: Design Thinking -
+  ET2312: Engineering Design 
+And Innovation -
+  ET3002: Digital Signal 
+Processing
+  ET3221: Computer Vision
+  ET3206: Digital Design
+  ET3271: Embedded System 
+Design
+  ET3282: Design Thinking
+  SH3001: Reasoning And Aptitude 
+Development
+  ET3272: Design and Analysis 
+of Algorithms
+  ET3265: Control Systems
+  ET3274: Operating Systems
+  ET3277: Digital 
+Communication
+  ET3285: Computer Network 
+Security
+  ET3203: Power 
+Electronics And 
+Drives
+  ET4230: Natural Language 
+Processing
+  ET4232: Deep Learning
+  ET4292: Modern Digital 
+Communication 
+Techniques
+  ET4431: Design Thinking -
+  ET4207: Major Project
+  ET4222: Research Internship 
+-
+  ET4250: Project Internship 
+-
+  ET4251: Industry Internship 
+-
+  ET4252: International Internship 
+-
+  ET4208: Major Project
+  ET4403: Research Internship 
+-
+  ET4404: Project Internship 
+-
+  ET4401: Industry Internship 
+-
+  ET4402: International Internship 
+-
+  LPC2148: Timers and ADC
+\n=== INSTRU ===
+  IC2301: Data Science
+  IC2303: Sensors and Transducers
+  IC2305: Object Oriented Programming
+  IC2307: Data Base Management System
+  ICM001: Sensors and Automation
+  IC2302: Advanced Data Structures
+  IC2304: Internet of Things
+  IC2306: Signal and Image Processing
+  IC2308: Industrial Automation
+  ICMM1402: Microcontroller and Applications
+  IC2317: Engineering Design and 
+Innovation - II
+  IC3231: Process Instrumentation
+  IC3233: Measurement Systems
+  IC3237: Control Theory
+  IC3243: Artificial Intelligence and Machine 
+Learning
+  IC3255: Design Thinking -
+  IC3252: Engineering Design and Innovation - 
+V
+  IC3260: Instrumentation Project Engineering
+  IC3234: Building and Process Automation
+  IC3240: Computer Network and Web 
+Technologies
+  IC3259: Cybersecurity
+  IC3257: Design Thinking -
+  IC3254: Engineering Design and Innovation - 
+VI
+  IC3222: Batch Process Control
+  MD4274: Large Language Models Skill 
+Development
+  MD4282: Natural Language Processing Skill 
+Development
+  CS4217: Human Computer Interaction
+  IC4249: Deep Learning (NPTEL course)
+  IC4243: Major Project
+  IC4211: Industry 
+Internship
+\n=== IT ===
+  IT2301: Data Structures
+  IT2305: Operating System
+  IT2303: Digital Electronics and Microprocessor
+  IT2304: Discrete Mathematics
+  IT2268: Design Thinking -
+  IT2272: Engineering Design and Innovation - Iii
+  HS2002: From Campus to Corporate -
+  HS2001: Reasoning And Aptitude Development
+  IT2306: Database Management Systems
+  IT2307: Software Engineering & Project Management
+  IT2308: Automata Theory
+  IT2270: DESIGN THINKING -
+  IT2264: ENGINEERING DESIGN AND INNOVATION - IV
+  IT3221: Operating System
+  IT3202: System Programming
+  IT3218: Artificial Intelligence
+  SH3001: Reasoning And Aptitude Development
+  IT3214: Engineering Design and Innovation-V
+  IT3215: Design and Analysis of Algorithms
+  IT3216: Machine Learning and Deep Learning
+  IT3229: Cloud Computing
+  SH3002: Reasoning and Aptitude Development
+  IT3224: Engineering Design and Innovation-VI
+  IT4218: Network Security
+  IT4230: Cyber Security and Privacy (NPTEL course)
+  IT4263: Responsible & Safe AI Systems
+  IT4207: Major Project
+  IT4257: Industry Internship
+  MD4274: Large Language Models Skill Development
+  MD4275: Mastering Microsoft Power BI
+  MD4276: Generative AI Skills for Developers
+  MD4277: Career in Data Analysis
+  MD4278: Concepts of Data Visualization and Storytelling
+  MD4279: AWS Certified Solutions Architect
+  MD4280: IT Security Specialist
+  MD4281: Technical Program Management
+  MD4282: Natural Language Processing Skill Development
+  MD4283: Prompt Engineering Skills
+  MD4284: Essentials in Generative AI
+  MD4285: Python in Finance
+  MD4286: Understanding Quantum Computing
+  MD4287: Foundational Maths for Machine Learning 
+ 
+ 
+Issue
+  MD3101: IBM Full Stack Software Developer
+  MD3102: Meta Back-End Developer
+  MD3103: IBM Back-End Developer
+  MD3121: IBM DevOps and Software Engineering
+  MD3123: Meta Front-End Developer
+  MD3124: IBM Front-End Developer
+  MD3126: Meta iOS/Android Developer
+  MD3127: IBM IT Project Manager
+  MD3130: IBM Mainframe Developer
+  MD3133: Google Project Management
+  MD3135: Salesforce Sales Development Representative
+  MD3140: SAP Technology Consultant
+  MD3148: Tableau Business Intelligence Analyst
+  MM1308: Statistical Methods in Six Sigma
+  IT3203: Image 
+Processing and 
+Computer 
+Vision
+\n=== MECH ===
+  ME2301: ENGINEERING 
+MATERIALS
+  ME2302: MANUFACTURING 
+PROCESSES
+  ME2308: MACHINE DRAWING AND 
+CAD
+  ME2295: DESIGN THINKING
+  ME2304: THERMODYNAMICS
+  ME2306: FLUID ENGINEERING
+  ME2309: KINEMATICS OF 
+MACHINES AND 
+MECHANISMS
+  ME2296: DESIGN THINKING
+  ESP8266: Wi-Fi module

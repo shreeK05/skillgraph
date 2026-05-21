@@ -1,0 +1,12 @@
+.env
+.env.local
+*.db
+*.zip
+__pycache__/
+venv/
+node_modules/
+.next/
+.pytest_cache/
+*.pyc
+*.wav
+syllabus_extracted/
